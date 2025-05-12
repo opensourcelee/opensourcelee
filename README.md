@@ -13,6 +13,6 @@
             <li>Oseong High School/오성고등학교</li>
             <li>Computer engineering of YU / 영남대학교 컴퓨터공학전공</li>
         </ol>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seungminnni&layout=compact"><br><br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=opensourcelee&layout=compact"><br><br>
     </body>
 </html>
