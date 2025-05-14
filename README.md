@@ -13,6 +13,18 @@
     <div style="text-align: left;"> <a href=mailto:> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:"> </a>
         <a href="https://open.spotify.com">
   <img src="https://cdn.simpleicons.org/spotify/1ED760" alt="Spotify" width="30"/>
+  </a>
+  <a href="https://www.naver.com">
+    <img src="https://cdn.simpleicons.org/naver/03C75A" alt="Naver" width="30"/>
+  </a>
+  <a href="https://www.google.com">
+    <img src="https://cdn.simpleicons.org/google/4285F4" alt="Google" width="30"/>
+  </a>
+  <a href="https://www.youtube.com">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" width="30"/>
+  </a>
+</p>
+
 </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
