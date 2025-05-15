@@ -7,9 +7,9 @@
         <h1>자기소개</h1>
         <p>My name is Sangjun Lee and I'm a student of <a href="https://www.yu.ac.kr/">Yeungnam University</a>.</p>
         <p>I'm a student of computer engineering and I am interested in programming.</p>
-        <p>제 이름은 이상준이고 현재 <a href="https://www.yu.ac.kr/">영남대학교</a>에 재학중입니다, 컴퓨터공학과 전공이며, AI, 알고리즘, 프로그래밍 등
-            컴퓨터공학에 관심이 많습니다</p>
-        </p> 프로필 사진은 kurt cobain이라는 가수입니다. "about a girl" 이라는 노래를 추천드립니다
+        <p>제 이름은 이상준이고 현재 <a href="https://www.yu.ac.kr/">영남대학교</a>에 재학중입니다.
+            컴퓨터공학과 전공이며, AI, 알고리즘, 프로그래밍 등 컴퓨터공학에 관심이 많습니다</p>
+        </p> 프로필 사진은 Kurt Cobain이라는 가수입니다. "About a girl" 이라는 노래를 추천드립니다
         <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=mailto:> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:"> </a>
