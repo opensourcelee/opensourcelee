@@ -35,12 +35,11 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=opensourcelee&layout=compact"><br><br>
     </body>
 </html>
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=opensourcelee&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/opensourcelee"
-    width="500"
-    height="190"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=opensourcelee&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/opensourcelee"
+  width="600"
+  height="300"
+/>
 </a>
   
